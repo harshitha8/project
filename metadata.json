@@ -1,0 +1,7 @@
+{
+  "name": "EduBuddy - Your AI Learning Companion",
+  "description": "A sophisticated student assistant chatbot that simplifies complex topics, provides step-by-step solutions, and generates practice quizzes for exam preparation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
